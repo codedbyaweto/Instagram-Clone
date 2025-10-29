@@ -1,19 +1,18 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Oldagram(Instagram-clone)
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+**Oldagram** is a minimalist Instagram-style interface built with **HTML** and **CSS**.  
+It recreates the classic Instagram post layout — including a profile header, photo carousel, interaction icons (like, comment, DM), and captions — all while maintaining a clean, responsive design.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## About
+This project was completed as part of a **Scrimba Frontend Developer Challenge**, focusing on layout design, Flexbox alignment, and visual hierarchy.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Tech Stack
+- **HTML5**  
+- **CSS3** *(Flexbox, object-fit, responsive design)*
 
-Happy Coding!
+## Features
+- Instagram-inspired post structure  
+- Realistic profile header and interaction section  
+- Centered, responsive feed layout  
+- Clean typography using Roboto font  
+
